@@ -19,7 +19,7 @@ You'll learn how to:
 
 At the end, you'll have a working web app running on your local machine.
 
-![Web app idproo page](_static/idproo.svg)
+![Web app idproo page](_static/idproo.svg?sanitize=true)
 
 ## Users
 Manage All user in IdProo
