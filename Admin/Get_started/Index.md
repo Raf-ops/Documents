@@ -12,18 +12,17 @@ uid: getting-started
 This tutorial shows how to use IdProo applications as IT Admins
 
 You'll learn how to:
-
-> [!div class="checklist"]
+ 
 > * Manage Users.
 > * Manage Applications.
 > * Manage Synchronization 
 
 At the end, you'll have a working web app running on your local machine.
 
-![Web app idproo page](_static/idproo.svg?sanitize=true)
+![Web app idproo page](_static/idproo.svg)
 
 ## Users
- 
+Manage All user in IdProo
 
 ## Applications
 Open a command shell, and enter the following command:
