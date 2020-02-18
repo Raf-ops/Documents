@@ -20,7 +20,7 @@ You'll learn how to:
 
 At the end, you'll have a working web app running on your local machine.
 
-![Web app home page](_static/home-page.png)
+![Web app idproo page](_static/idproo.svg)
 
 ## Users
  
