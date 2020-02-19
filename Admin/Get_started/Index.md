@@ -11,11 +11,11 @@ uid: getting-started
 
 This tutorial shows how to use IdProo applications as IT Admins
 
-You'll learn how to:
+You'll learn how to manage:
  
-> * Manage Users.
-> * Manage Applications.
-> * Manage Synchronization 
+> * Users.
+> * Applications.
+> * Synchronization 
 
 At the end, you'll have a working web app running on your local machine.
 
