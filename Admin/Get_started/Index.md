@@ -4,7 +4,7 @@ author: abdullah
 description: A short tutorial how to manage IdProo as IT Admin. 
 ysi.author: nugroho
 ysi.custom: idproo
-ms.date: 02/18/2020
+ysi.date: 02/18/2020
 uid: getting-started
 ---
 # Tutorial: Get started with IdProo Admin
