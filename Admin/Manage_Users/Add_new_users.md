@@ -7,7 +7,7 @@ ysi.custom: abdullah
 ysi.date: 02/19/2020
 uid: add-new-users
 ---
-# Tutorial: Get started with IdProo Admin
+# Tutorial: Add new Users
 
 This tutorial shows how to add new users in IdProo
  
