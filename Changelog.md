@@ -46,7 +46,7 @@ uid: changelog
 
 *   **IdProo** as more than Single Sign On **(SSO)** Applications
 *   **Dashboard** information **"Summary"** for **Users, Login, Application and Activities**
-*   Drill-down users activities in dashboard
+*   Drill-down **users** activities in dashboard
 *   ##### 
 
     <noscript>Users</noscript>
@@ -71,5 +71,5 @@ uid: changelog
 *   ##### Market Place
 
     *   List application registred in IdProo
-*   Rest password user IdProo from IdP (AD and AAD)
+*   **Rest password** user IdProo from IdP (AD and AAD)
 *   Portal SSO
