@@ -10,4 +10,3 @@ uid: getting-started
 # Tutorial: Get started development in IdProo
 
 This tutorial shows how to development application in IdProo
- 
