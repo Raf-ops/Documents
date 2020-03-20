@@ -16,9 +16,10 @@ uid: changelog
 *   Application Settings for **Notification, SMS, Email** and **Default Organization**
 *   _Busines to Customes_ **B2C** Identity Provider for **Google** and **Facebook**
 *   **IdProo Agent** for Active Directory (AD)
+*   Synchronization target to Directory Hubs
 *   Multiple users properties from Synchronization
 *   CSS and Javascript **Skeleton**
-*   Display IdP and Status (Active or Inactive) in list user
+*   Add IdP, DirectoryId and Status (Active or Inactive) in DB user Identity
 *   Webhook in application, also devide in section model and HTTP request
 
 #### Changed
@@ -30,7 +31,7 @@ uid: changelog
 *   Fix typo for label
 *   Improve query and display data
 *   Rename surename and givenname to firstname and lastname
-*   Improve CSS and layouting
+*   Improve CSS and layouting for (List, Form, Table)
 *   Improve reset password
 *   Improve market place
 
